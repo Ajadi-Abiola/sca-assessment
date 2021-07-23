@@ -40,7 +40,7 @@ const useStyles = makeStyles((theme) => ({
       </AppBar>
       <Container maxWidth="sm" style={{backgroundColor:'#b4bbbf'}}>
      
-        <Typography component="div" style={{ backgroundColor: '#cfe8fc', height: '90vh', padding:'35% ', fontSize:'200%', fontStyle:'italic', color:'#63686b'}} >Welcome to SCA Cloud School Application.</Typography>
+        <Typography component="div" style={{ backgroundColor: '#cfe8fc', height: '90vh', padding:'35% ', fontSize:'200%', fontStyle:'italic', color:'#63686b'}} >Welcome to SCA Cloud School Application, this is my first assessment.</Typography>
       
         
       </Container>
